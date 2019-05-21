@@ -10,7 +10,7 @@ Game G:
   Player (A or B) can choose its move if value of outcome on current index I is bigger than opponents one. Player with more points at the and of the round is winner. (of the round, there should be many rounds on different trees). Player should walk the path by using minimax search (with assumption that moves will change evenly).
 
 Tree T:
-  Tree can be bottlenecked every time it reaches certain modulo depth by having there only one vertex.
+  Tree can should bottlenecked every time it reaches certain modulo depth by having there only one vertex.
 
 ## Authors
 
